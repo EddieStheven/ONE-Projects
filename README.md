@@ -20,13 +20,10 @@ Tecnologias Utilizadas:
 - CSS
 - JavaScript
 
-2. Decodificador de Texto
+*2. Decodificador de Texto*
 
 Descrição:
-Um aplicativo que funciona como um tradutor, onde o usuário insere um texto e recebe uma sequência aleatória como resultado. O aplicativo visa demonstrar a capacidade de manipulação de strings e geração de sequências aleatórias.
-
-Objetivo:
-Praticar a manipulação de strings e a geração de conteúdo dinâmico através de um algoritmo de decodificação.
+Uma aplicação que funciona como um tradutor, onde o usuário insere um texto e recebe uma sequência aleatória como resultado. O aplicativo visa demonstrar a capacidade de manipulação de strings e geração de sequências aleatórias.
 
 Tecnologias Utilizadas:
 
@@ -34,13 +31,10 @@ Tecnologias Utilizadas:
  - CSS
  - JavaScript
 
-3. Codificador de Texto
+*3. Codificador de Texto*
 
 Descrição:
-Um aplicativo que permite ao usuário inserir um texto e obter uma versão codificada do mesmo. Este projeto demonstra a capacidade de criar algoritmos de codificação e decodificação de textos.
-
-Objetivo:
-Desenvolver habilidades em algoritmos de criptografia básica e manipulação de dados textuais.
+Uma aplicação que permite ao usuário inserir um texto e obter uma versão codificada do mesmo. Este projeto demonstra a capacidade de criar algoritmos de codificação e decodificação de textos.
 
 Tecnologias Utilizadas:
 
