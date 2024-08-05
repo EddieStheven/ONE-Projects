@@ -2,7 +2,7 @@ Projetos do Curso ONE - T6 Oracle
 Este repositório contém todos os projetos desenvolvidos durante o curso ONE - T6 Oracle, que totalizou 303 horas de estudo e incluiu 30 cursos diferentes, abrangendo tanto formações técnicas quanto Soft Skills.
 
 Meus Certificados
-Você pode conferir todos os meus certificados no meu perfil do LinkedIn: https://www.linkedin.com/in/eddiestheven/
+você pode conferir todos os meus certificados no meu perfil do LinkedIn: https://www.linkedin.com/in/eddiestheven/
 
 Projetos:
 
@@ -78,28 +78,28 @@ Passos para Completar o Projeto:
  - Configurar uma IDE (IntelliJ IDEA ou Eclipse)
  - Ferramentas adicionais como Maven ou Gradle
 
-4.2.Criação do Projeto:
+4.2. Criação do Projeto:
 
  - Criar um novo projeto Java na IDE
  - Configurar as dependências no pom.xml (Maven) ou build.gradle (Gradle)
 
-4.3.Consumo da API:
+4.3. Consumo da API:
 
  - Definir a URL da API
  - Configurar as requisições HTTP
  - Tratar as respostas da API
 
-4.4.Análise da Resposta JSON:
+4.4. Análise da Resposta JSON:
 
  - Utilizar bibliotecas como Jackson ou Gson para analisar os dados JSON
 
-4.5.Inserção e Consulta no Banco de Dados:
+4.5. Inserção e Consulta no Banco de Dados:
 
  - Configurar o banco de dados (MySQL ou PostgreSQL)
  - Criar tabelas necessárias
  - Implementar operações de inserção e consulta
 
-4.6.Exibição de Resultados aos Usuários:
+4.6. Exibição de Resultados aos Usuários:
 
  - Implementar interface textual para interação com o usuário
  - Oferecer no mínimo 5 opções de interação, como listar todos os livros, pesquisar por título, pesquisar por autor, adicionar e remover livros do catálogo
