@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    /* height: 100vh; */
+    box-sizing: border-box;
+    background-color: black;
+    color: #F6F6F6;
+  }
+
+.cabecalho{
+  padding: 2% 0% 0% 23%;
+}
+
+.menu{
+  display: flex;
+  gap: 80px;
+}
+
+.menu1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+   color: #ff0000;
+
+}
+
+.menu2{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+   color: #ff0000;
+
+}
+
+
+
+
+
+.Azul1 { 
+  color: #ff0000;
+}
+
+.apresentação{
+  padding: 8% 23%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.apresentação__1{
+  width: 615x;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+
+}
+
+.apresentação__h1{
+  font-size: 36px;
+  font-family: 'Krona One', sans-serif;
+}
+
+.apresentação__p{
+  font-size: 24px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Botão{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+
+
+.jogo{
+  background-color: rgb(0, 0, 0);
+  border: 2px dotted #ff0000;
+  width: 110px;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight:600;
+  padding: 21.5px 0;
+  text-decoration: none;
+  color: #F6F6F6;
+  display: flex;
+  justify-content: center;
+  gap: 13px;
+}
+
+.nome{
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:600;
+  padding: 21.5px 0;
+}
+
+.Odette{
+  padding: 21.5px 0;
+  font-size: 16px;
+  color: azure;
+}
+
+.rodape{
+ color: rgb(0, 0, 0);
+ background-color: #ff0000;
+ padding: 24px;
+ text-align: center;
+ font-family: 'Montserrat', sans-serif;
+}
+
