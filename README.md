@@ -43,6 +43,7 @@ Tecnologias Utilizadas:
  - API
 
 4. LiterOne: Catálogo de Livros
+
 Descrição:
 Um catálogo de livros que permite interações textuais com os usuários via console, oferecendo no mínimo 5 opções de interação. Os livros são buscados através de uma API específica, e os dados são manipulados e armazenados em um banco de dados.
 
