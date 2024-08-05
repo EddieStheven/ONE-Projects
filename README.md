@@ -6,7 +6,7 @@ você pode conferir todos os meus certificados no meu perfil do LinkedIn: https:
 
 Projetos:
 
-1. Rusalka Game
+*1. Rusalka Game*
 
 Descrição:
 Um jogo de adivinhar números que desafia o jogador a adivinhar um número gerado aleatoriamente pelo sistema. O jogo fornece dicas para ajudar o jogador a se aproximar do número correto.
@@ -42,7 +42,7 @@ Tecnologias Utilizadas:
  - Spring Boot
  - API
 
-4. LiterOne: Catálogo de Livros
+*4. LiterOne: Catálogo de Livros*
 
 Descrição:
 Um catálogo de livros que permite interações textuais com os usuários via console, oferecendo no mínimo 5 opções de interação. Os livros são buscados através de uma API específica, e os dados são manipulados e armazenados em um banco de dados.
@@ -67,39 +67,39 @@ Requisitos:
 
 Passos para Completar o Projeto:
 
-4.1. Configuração do Ambiente Java:
+*4.1. Configuração do Ambiente Java:*
 
  - Instalar o JDK (Java Development Kit)
  - Configurar uma IDE (IntelliJ IDEA ou Eclipse)
  - Ferramentas adicionais como Maven ou Gradle
 
-4.2. Criação do Projeto:
+*4.2. Criação do Projeto:*
 
  - Criar um novo projeto Java na IDE
  - Configurar as dependências no pom.xml (Maven) ou build.gradle (Gradle)
 
-4.3. Consumo da API:
+*4.3. Consumo da API:*
 
  - Definir a URL da API
  - Configurar as requisições HTTP
  - Tratar as respostas da API
 
-4.4. Análise da Resposta JSON:
+*4.4. Análise da Resposta JSON:*
 
  - Utilizar bibliotecas como Jackson ou Gson para analisar os dados JSON
 
-4.5. Inserção e Consulta no Banco de Dados:
+*4.5. Inserção e Consulta no Banco de Dados:*
 
  - Configurar o banco de dados (MySQL ou PostgreSQL)
  - Criar tabelas necessárias
  - Implementar operações de inserção e consulta
 
-4.6. Exibição de Resultados aos Usuários:
+*4.6. Exibição de Resultados aos Usuários:*
 
  - Implementar interface textual para interação com o usuário
  - Oferecer no mínimo 5 opções de interação, como listar todos os livros, pesquisar por título, pesquisar por autor, adicionar e remover livros do catálogo
 
-5. ForumHub
+*5. ForumHub*
 
 Descrição:
 Um fórum onde os usuários podem criar tópicos, postar respostas e interagir com outros usuários. Este projeto demonstra a capacidade de construir uma plataforma de interação social com funcionalidades de criação, leitura, atualização e exclusão (CRUD).
